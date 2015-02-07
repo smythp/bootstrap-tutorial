@@ -1,3 +1,3 @@
-# Bootstrap tutorial Initial Config
+# Bootstrap site with Navbar/Jumbotron
 
-This branch holds the initial configuration for the Bootstrap site.
+This branch has the navbar and jumbotron configured. 
