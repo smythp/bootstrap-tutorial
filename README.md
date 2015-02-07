@@ -1,3 +1,4 @@
-# Bootstrap site with Navbar/Jumbotron
+# ITP Responsive Design Workshop
 
-This branch has the navbar and jumbotron configured. 
+Example Bootstrap site for ITP workshop on creating mobile-first sites with Bootstrap
+
